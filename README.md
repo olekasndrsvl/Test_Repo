@@ -1,6 +1,6 @@
-<center> 
 ![alt text](https://2.downloader.disk.yandex.ru/preview/584208277f9e4c501b7a02568966e8e8a5d79cfa4892320a5e62956da882c076/inf/68ONFMbcOA2iwDl-ULXbIE7ay4zNwPqxkoS_M5UFBrnysiR-aXGnFWOuHntT_yU--fK1GNW4f92eDpnsD5LmDg%3D%3D?uid=296740791&filename=%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81_%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D0%B0-gigapixel-hq-scale-6_00x.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=296740791&tknv=v2&size=1856x958)
-  </center>
+
+
 <h1 align="center">💡BrighTown</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=28&duration=4000&pause=500&color=F77F49&multiline=true&width=1000&height=80&lines=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!;%D0%97%D0%B4%D0%B5%D1%81%D1%8C+%D0%B1%D1%83%D0%B4%D1%83%D1%82+%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D1%8B+%D0%B2%D1%81%D0%B5+%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F+%D0%B8+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F+%D0%BD%D0%B0%D1%88%D0%B5%D0%B3%D0%BE+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0." alt="Typing SVG" /></a>
