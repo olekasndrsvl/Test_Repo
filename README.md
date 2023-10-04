@@ -1,4 +1,4 @@
-![alt text](https://2.downloader.disk.yandex.ru/preview/584208277f9e4c501b7a02568966e8e8a5d79cfa4892320a5e62956da882c076/inf/68ONFMbcOA2iwDl-ULXbIE7ay4zNwPqxkoS_M5UFBrnysiR-aXGnFWOuHntT_yU--fK1GNW4f92eDpnsD5LmDg%3D%3D?uid=296740791&filename=%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81_%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%81%D0%B0-gigapixel-hq-scale-6_00x.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=296740791&tknv=v2&size=1856x958)
+![alt text](референс_референса-gigapixel-hq-scale-6_00x.png)
 
 
 <h1 align="center">💡BrighTown</h1>
